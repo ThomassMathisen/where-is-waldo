@@ -1,6 +1,6 @@
 import React from "react";
 import GetUsername from "./GetUsername";
-import img from "../img/beach-waldo.png";
+import img from "../img/beach-waldo.jpg";
 import "../styles/Image.css";
 import DropdownMenu from "./DropdownMenu";
 import { useState, useEffect } from "react";

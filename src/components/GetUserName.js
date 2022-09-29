@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { collection, addDoc } from "firebase/firestore";
 import { db } from "../firebase-config";
-import "../styles/GetUserName.css";
+import "../styles/GetUsername.css";
 import { secondsToTime } from "./Timer";
 
-export default function GetUserName(props) {
+export default function GetUsername(props) {
   const [userInfo, setUserInfo] = useState({
     user: "",
     time: props.counter,
