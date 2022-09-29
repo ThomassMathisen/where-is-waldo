@@ -21,7 +21,7 @@ export default function GetUsername(props) {
 
   function handleChange(e) {
     setUserInfo((prevState) => {
-        return {...prevState, user: e.target.value };
+        return { ...prevState, user: e.target.value };
     });
   }
 
