@@ -1,4 +1,4 @@
-.wally-image {
+.waldo-image {
     max-width: 100%;
     cursor: pointer;
 }
@@ -24,7 +24,7 @@
 }
 
 .found-character-odlaw>img,
-.found-character-wally>img,
+.found-character-waldo>img,
 .found-character-whitebeard>img {
     width: 100%;
     border-radius: 100%;

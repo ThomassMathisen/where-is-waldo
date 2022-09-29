@@ -78,8 +78,8 @@ export default function Image(props) {
                   <div className="start-game-popup-text">
                     <h2>Let's find Waldo and his friends!</h2>
                     <p>Tag Waldo, Wizard Whitebeard and Odlaw as fast as you can!</p>
-                    <p>Look through the image to find the correct characters</p>
-                    <p>Click on them and choose the right name</p>
+                    <p>Look through the image to find them all</p>
+                    <p>Click on them to choose the right name</p>
                     <p>Move fast, you are being timed!</p>
                     <button
                       className="start-game-popup-button"
