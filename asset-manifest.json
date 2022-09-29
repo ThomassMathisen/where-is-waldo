@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d5a89e94.css",
-    "main.js": "/react-gh-pages/static/js/main.6a221394.js",
-    "static/media/beach-waldo.jpg": "/react-gh-pages/static/media/beach-waldo.a0e0289ef358bd1a3745.jpg",
-    "static/media/waldo-logo.png": "/react-gh-pages/static/media/waldo-logo.80255daa3551c95d5595.png",
-    "static/media/whitebeard.png": "/react-gh-pages/static/media/whitebeard.0b6ac7850fe802eac844.png",
-    "static/media/odlaw.png": "/react-gh-pages/static/media/odlaw.53fbcd924126a4e4f16f.png",
-    "static/media/background-waldo.png": "/react-gh-pages/static/media/background-waldo.d420f8fda77cb47cc13b.png",
-    "static/media/waldo.png": "/react-gh-pages/static/media/waldo.46b420037c5bb1542d88.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d5a89e94.css.map": "/react-gh-pages/static/css/main.d5a89e94.css.map",
-    "main.6a221394.js.map": "/react-gh-pages/static/js/main.6a221394.js.map"
+    "main.css": "/where-is-waldo/static/css/main.d5a89e94.css",
+    "main.js": "/where-is-waldo/static/js/main.7df0789b.js",
+    "static/media/beach-waldo.jpg": "/where-is-waldo/static/media/beach-waldo.a0e0289ef358bd1a3745.jpg",
+    "static/media/waldo-logo.png": "/where-is-waldo/static/media/waldo-logo.80255daa3551c95d5595.png",
+    "static/media/whitebeard.png": "/where-is-waldo/static/media/whitebeard.0b6ac7850fe802eac844.png",
+    "static/media/odlaw.png": "/where-is-waldo/static/media/odlaw.53fbcd924126a4e4f16f.png",
+    "static/media/background-waldo.png": "/where-is-waldo/static/media/background-waldo.d420f8fda77cb47cc13b.png",
+    "static/media/waldo.png": "/where-is-waldo/static/media/waldo.46b420037c5bb1542d88.png",
+    "index.html": "/where-is-waldo/index.html",
+    "main.d5a89e94.css.map": "/where-is-waldo/static/css/main.d5a89e94.css.map",
+    "main.7df0789b.js.map": "/where-is-waldo/static/js/main.7df0789b.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a89e94.css",
-    "static/js/main.6a221394.js"
+    "static/js/main.7df0789b.js"
   ]
 }
