@@ -22,7 +22,7 @@ export default function DropdownMenu(props) {
         props.showMistake();
     } else {
       props.setFoundCharacters((prevState) => {
-        const data = {...prevState, [char]: true };
+        const data = { ...prevState, [char]: true };
         return data;
       });
       console.log("good");
@@ -33,12 +33,12 @@ export default function DropdownMenu(props) {
     setCharacter(char);
     let data = props.characterPositions[char];
     console.log(data);
-    checkPosition(data, props.positionX, props.positionY, char);
+    checkPosition(data, props.position.x, props.position.y, char);
   }
 
   const style = {
-    left: props.positionX,
-    top: props.positionY + 100,
+    left: props.position.x,
+    top: props.position.y + 100,
   };
 
   function optionOnClick(char) {
@@ -58,7 +58,7 @@ export default function DropdownMenu(props) {
           className="menu-options"
         >
           <img
-            className="meny-characters-img"
+            className="menu-characters-img"
             alt="waldo-icon"
             src={waldo}
           ></img>
@@ -71,7 +71,7 @@ export default function DropdownMenu(props) {
           className="menu-options"
         >
           <img
-            className="meny-characters-img"
+            className="menu-characters-img"
             alt="whitebear-icon"
             src={whitebeard}
           ></img>
@@ -84,7 +84,7 @@ export default function DropdownMenu(props) {
           className="menu-options"
         >
           <img
-            className="meny-characters-img"
+            className="menu-characters-img"
             alt="odlaw-icon"
             src={odlaw}
           ></img>
