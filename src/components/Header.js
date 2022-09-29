@@ -59,11 +59,11 @@ export default function Header(props) {
                   Go back
                 </button>
                 )}
-                {props.StartGame && !props.wonGame && (
+                {props.startGame && !props.wonGame && (
                   <Timer
                     counter={props.counter}
                     setCounter={props.setCounter}
-                    StartGame={props.StartGame}
+                    startGame={props.startGame}
                   />
                 )}
             </div>
