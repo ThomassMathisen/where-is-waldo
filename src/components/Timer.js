@@ -1,4 +1,4 @@
-import React { useEffect } from "react";
+import React, { useEffect } from "react";
 
 export function secondsToTime(seconds) {
     const m = Math.floor((seconds % 3600) / 60)
